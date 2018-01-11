@@ -1,4 +1,4 @@
-# Essential JS 2 Typescript Seed webpack v1
+# Essential JS 2 Typescript Seed with webpack v1 support
 
 This seed project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application.
 
